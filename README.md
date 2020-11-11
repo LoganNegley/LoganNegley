@@ -13,7 +13,6 @@
     -SQL
     -Knex
     -SQLite3
-    -Python
 
 📫 How to reach me:
       LinkedIn:
