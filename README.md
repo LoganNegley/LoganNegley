@@ -17,5 +17,5 @@
 📫 How to reach me:
       LinkedIn:
       https://www.linkedin.com/in/logan-negley/
-      Emial:
+      Email:
       LoganNegley@gmail.com
