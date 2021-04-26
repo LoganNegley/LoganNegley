@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my GitHub
--I am currently a Full Stack Developer student at Lambda School and looking forward to getting out into the coding industry in the a few months.
-- I love pretty much anything creative, from Photography, DIY, Woodworking, Coding, Music, Art you name it.
+- I am a Full Stack Web Developer looking forward to exploring new opportunities and experiences.
+- I love anything creative, from Photography, DIY, Woodworking, Coding, Music, Art you name it.
 
 💬 My current developing skills:
     -HTML
@@ -13,6 +13,8 @@
     -SQL
     -Knex
     -SQLite3
+    -Adobe Illustrator
+    -Adobe XD
 
 📫 How to reach me:
       LinkedIn:
