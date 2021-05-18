@@ -6,13 +6,12 @@
     -HTML
     -CSS
     -Javascript
-    -Cotext AAPI
+    -Context API
     -LESS
     -React
     -NodeJs
     -SQL
-    -Knex
-    -SQLite3
+    -Express
     -Adobe Illustrator
     -Adobe XD
 
